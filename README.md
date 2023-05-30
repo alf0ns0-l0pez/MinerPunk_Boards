@@ -9,6 +9,6 @@ If you want to use any of our boards you have to connect via usb to a computer i
 There are two ways to send and receive messages to our boards.
 
 1. Communicating directly to the Board with your own code or a terminal like PuTTY using the Set Instructions corresponding to each model, for example.
-    ![msg_example](https://raw.githubusercontent.com/alf0ns0-l0pez/MinerPunk_Boards/master/img/msg_example.png)
+    ![msg_example](https://raw.githubusercontent.com/alf0ns0-l0pez/MinerPunk_Boards/master/img/msg_example.PNG)
 
 2. The other way to interact with them is through WebApis, for more information visit this repository [MinerPunk_Serial_WebApi](https://github.com/alf0ns0-l0pez/MinerPunk_Serial_WebApi).
